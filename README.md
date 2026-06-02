@@ -1,8 +1,9 @@
 # Priyanshu Maity
+## YOUNGEST DEVELOPER OF KOLKATA
 
-## 🚀 17 y/o Founder building Zugo
+## 🚀 17 y/o Founder & Developer building Zugo
 
-FUll Stack Developer focused on building real-world applications and solving practical problems. Passionate about software development, startups, and emerging technologies.
+FUll Stack and AI Developer focused on building real-world applications and solving practical problems. Passionate about software development, startups, and emerging technologies.
 
 
 ## 🔥 About Zugo
@@ -16,7 +17,7 @@ The goal is to build scalable solutions that people actually use in their daily 
 ## 🏆 Certifications
 - CompTIA A+ Certified (220-1001, 220-1002)  
 - Certified in Web Development
--  Certified in App Development  
+- Certified in App Development  
 - Certified in Java
 - Certified in Python
 - DSA & machine learning (ongoing)
@@ -25,7 +26,7 @@ The goal is to build scalable solutions that people actually use in their daily 
 ---
 
 ## 🛠️ Skills
-Web Development | App Development |Java | Git | GitHub  
+Python || JavaScript || SQL || Large Language Models (LLMs) || SQL for Data Handling ||Data Structures & Algorithms (Beginner) || 
 
 ---
 
