@@ -1,5 +1,5 @@
 # Priyanshu Maity
-## YOUNGEST DEVELOPER OF KOLKATA
+## Aspiring Neuro-AI Developer
 
 ## 🚀 17 y/o Founder & Developer building Zugo
 
