@@ -1,26 +1,27 @@
 # Priyanshu Maity
 ## AI & Machine Learning developer, Independent Neuro AI Researcher, Full-Stack Developer
 
-## 18-year-old AI Developer, Independent Neuro AI Researcher, Full-Stack Developer from Kolkata, India. Building the future with Artificial Intelligence, Neuro AI, Machine Learning, and next-generation intelligent systems.
+ 
+## $${\color{orange} 18-year-old }$$ AI Developer, Independent Neuro AI Researcher, Full-Stack Developer from Kolkata, India. Building the future with Artificial Intelligence, Neuro AI, Machine Learning, and next-generation intelligent systems.
 
 
-# Projects
-## Built NeuroIntent (EEG BCI), AIRA (AI attendance), and intelligent AI applications solving real-world problems.
-
----
-
-# Core Skills
-## Artificial Intelligence • Neuro AI • Machine Learning • Deep Learning • Brain-Computer Interfaces (BCIs) • Full-Stack Development • Python • JavaScript • RAG • Deep Learning • Generative AI • Computer Vision • Pytorch 
-
+# $${\color{Red} Projects }$$
+## Built $${\color{yellow}NeuroIntent}$$ (EEG BCI), $${\color{yellow}AIRA}$$ (AI attendance), and intelligent AI applications solving real-world problems.
 
 ---
 
+# Core $${\color{Red} Skills }$$
+## $${\color{maroon}Artificial Intelligence }$$ • $${\color{green} Neuro AI }$$ • $${\color{Blue}Machine Learning }$$• $${\color{yellow}Deep Learning}$$ • $${\color{orange}Brain-Computer Interfaces (BCIs) }$$ • $${\color{lightblue} Full-Stack Development}$$ • $${\color{maroon}Python}$$ • $${\color{purple}JavaScript}$$ • $${\color{maroon}RAG }$$ • $${\color{lime}Deep Learning}$$ • $${\color{magenta}Generative AI }$$• $${\color{purple} Computer Vision}$$ • $${\color{lime}Pytorch}$$ 
 
-# Professional Certifications
+
+---
+
+
+# Professional $${\color{Red} Certifications }$$
 ## CompTIA A+, Python, Java, Data Structures & Algorithms (DSA), Generative AI, and Full-Stack Development.
 ---
 
-## Builduing India's First AI Court 
+## $${\color{lime} Builduing\ India's\ First AI Court }$$
 
 ---
 
